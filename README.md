@@ -9,6 +9,9 @@
   </a>
   <br>
 </h2>
+<a align="center" href="https://ko-fi.com/thimo32950">
+<img align="center" alt="ko-fi" width="200px" src="https://cdn.discordapp.com/attachments/487752573739335680/940478160036823040/kofi.png" />
+</a>
 <br />
 <br />
 
@@ -33,3 +36,5 @@
 
 <br />
 <br />
+
+[kofi]: https://ko-fi.com/thimo32950
