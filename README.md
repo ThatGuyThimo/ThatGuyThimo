@@ -38,3 +38,5 @@
 <br />
 
 [kofi]: https://ko-fi.com/thimo32950
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ThatGuyThimo&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
